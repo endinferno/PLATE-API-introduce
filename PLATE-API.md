@@ -1,4 +1,4 @@
-# <span id="PLATE-API-1.0"><center>PLATE-API</center></span>
+# <center>PLATE-API</center>
 
 **Version: 1.0**
 
