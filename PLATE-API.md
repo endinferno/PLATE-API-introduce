@@ -450,7 +450,7 @@
 **全局函数参数列表**
 	
 ```javascript
-(canvasID, mouseDownAction, mouseMoveAction, MouseUpAction)
+(canvasID, mouseDownAction, mouseMoveAction, mouseUpAction)
 ```
 
 **全局变量参数解释**
